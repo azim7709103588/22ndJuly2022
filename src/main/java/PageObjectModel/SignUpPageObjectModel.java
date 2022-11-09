@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+
+     //   What to change here also same as POM/LPO
 public class SignUpPageObjectModel {
 
 	public WebDriver driver;
